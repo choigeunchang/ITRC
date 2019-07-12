@@ -1,0 +1,15 @@
+#map {
+    height: 700px;
+}
+
+.padding-bottom{
+	padding-bottom: 10px;
+}
+
+.pre-scrollable {
+    max-height: 200px;
+}
+
+#sinkbar {
+    background-color: #ffd105;
+}

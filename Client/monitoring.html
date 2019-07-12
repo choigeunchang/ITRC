@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <title>Realtime Monitoring System</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="./assets/favicon.ico">
+
+    <!-- Jquery -->
+    <script src="jquery/jquery-1.11.1.min.js"></script>
+
+    <!-- Socket 통신 연결 : 소켓에 대한 모든 것들이 먼저 참조가 되어야 monitoring.js에서 소켓 사용이 가능하다. -->
+    <script src="socket.io-client/dist/socket.io.js"></script>
+    <!-- JavaScript -->
+    <script src="javascript/monitoring.js"></script>
+
+    <!-- CSS : 부트스트랩과 가져온 템플릿 css파일을 깨짐 없이 사용하기 위해서는 아래와 같은 순서로 작성해야 한다. -->  
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="./css/main.a3f694c0.css" rel="stylesheet">
+    <link href="./css/monitoring.css" rel="stylesheet">
+
+    <!-- Google maps            아래 코드 뒷 부분 callback 함수를 잘 설정해주어야 Google Map이 잘 작동한다  -->
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBg8CEKqg7t4N98F7KxBAxt0XUUctcA9SQ&callback=initMap"></script>
+</head>
+
+<body>
+    <!-- Tab 메뉴 -->
+    <header>
+        <nav class="navbar  navbar-fixed-top navbar-default">
+            <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="./index.html" title="">
+                <img src="./assets/Mainlogo/smmclogo.png" class="navbar-logo-img" alt="">
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
+                <ul class="nav navbar-nav navbar-right">
+                <li><a href="./index.html" title="" class="active">Home</a></li>
+                <li><a href="./monitoring.html" title="">Monitoring</a></li>
+                <li><a href="./sensing.html" title="">Sensing</a></li>
+                <li><a href="./about.html" title=""> About</a></li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class= "section-container no-padding">  
+        <!-- 아래 class명을 container-fluid로 설정하면 map이 좌우로 꽉차게 된다.-->
+        <div class="container">
+            <div class="padding-bottom"> </div>
+
+            <!-- 부트스트랩 Grid 구축하기 유용한 사이트: http://shoelace.io/ -->
+            <!-- Map -->
+            <div class="row">
+                <div class="col-md-9">
+                   <div id="map"></div>
+                </div>
+
+                <!-- panel-primary, panel-heading 색상 변경 : from 337ab7 to 652fff -->
+                <!-- 활성화시 바뀌는 색깔 변경 : bootstrap.css (line: 5174~5175) from 337ab7 to 652fff -->
+                <div class="col-md-3 maprightside">
+                   <div class="panel panel-primary">
+                      <div class="panel-heading">
+                         <h1 class="panel-title">Province</h1>
+                      </div>
+                      <div class="panel-body pre-scrollable">
+                         <ul class="list-group" id="province"> </ul>
+                      </div>
+                   </div>
+
+                   <div class="panel panel-primary">
+                      <div class="panel-heading">
+                         <h1 class="panel-title">District</h1>
+                      </div>
+                      <div class="panel-body pre-scrollable">
+                         <ul class="list-group" id="district"> </ul>
+                      </div>
+                   </div>
+
+                   <div class="input-group">
+                      <input id="ip" type="text" class="form-control" value="168.131.39.45">
+                      <span class="input-group-btn">
+                      <button class="btn btn-primary" type="button" onclick="Connect_btn()">Connect</button>
+                      </span>
+                   </div>
+                </div>
+             </div>
+
+            <!-- Design of Progress (Fire) -->
+            <div class="col-md-3">
+               <div class="h3">
+                  <small class="text-muted">Fire</small> </div>
+               <div class="progress">
+                  <div id="firebar" class="progress-bar" role="progressbar"></div>
+               </div>
+
+               
+            </div>
+            <!-- Design of Progress (EarthQuake) -->
+            <div class="col-md-3">
+               <div class="h3">
+                  <small class="text-muted">Flood</small> </div>
+               <div class="progress">
+                  <div id="floodbar" class="progress-bar" role="progressbar"></div>
+               </div>
+            </div>
+
+            <!-- Design of Progress (Typhoon) -->
+            <div class="col-md-3">
+               <div class="h3">
+                  <small class="text-muted">Typhoon</small> </div>
+               <div class="progress">
+                  <div id="typhoonbar" class="progress-bar" role="progressbar"></div>
+               </div>
+            </div>
+
+            <!-- Design of Progress (Sinkhole) -->
+            <div class="col-md-3">
+               <div class="h3">
+                  <small class="text-muted">Sinkhole</small> </div>
+               <div class="progress">
+                  <div id="sinkbar" class="progress-bar" role="progressbar"></div>
+               </div>
+            </div>
+
+        </div>
+    </div>
+
+    
+
+</body>
+
+</html>

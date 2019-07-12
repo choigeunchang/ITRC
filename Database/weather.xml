@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Weather>
+  <MainArea Name="강원도">
+    <SubArea Name="강릉시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4215061500" Location="37.7582616,128.7783231" />
+    <SubArea Name="고성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4282025000" Location="38.3806296,128.4656388" />
+    <SubArea Name="동해시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4217051000" Location="37.5247825,129.1120907" />
+    <SubArea Name="삼척시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4223053000" Location="37.4496069,129.1436203" />
+    <SubArea Name="속초시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4221054000" Location="38.2067782,128.5860474" />
+    <SubArea Name="양구군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4280025000" Location="38.1071693,127.9871967" /> 
+    <SubArea Name="양양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4283031000" Location="38.005378,128.6006473" />
+	<SubArea Name="영월군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4275025000" Location="37.1976961,128.4393453" />
+	<SubArea Name="원주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4213066000" Location="37.3272175,127.8852671" />
+	<SubArea Name="인제군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4281025000" Location="38.0777373,127.9794286" />
+	<SubArea Name="정선군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4277025000" Location="37.3718139,128.3546629" />
+	<SubArea Name="철원군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4278025300" Location="38.3032987,127.2844231" />
+	<SubArea Name="춘천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4211058000" Location="37.8825182,127.7111034" />
+	<SubArea Name="태백시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4219054000" Location="37.1569783,128.8996259" />
+	<SubArea Name="평창군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4276033000" Location="37.5051814,128.2891643" />
+	<SubArea Name="홍천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4272031000" Location="37.7792118,127.7080063" />
+	<SubArea Name="화천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4279025000" Location="38.1829477,127.4929779" />
+	<SubArea Name="횡성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4273034000" Location="37.5793812,127.8226739" />
+  </MainArea>
+  
+  <MainArea Name="경기도">
+   <SubArea Name="가평군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4182032500" Location="37.7264348,127.2953983" />
+   <SubArea Name="고양시덕양구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4128157000" Location="37.66013,126.836014" />
+   <SubArea Name="고양시일산동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4128551000" Location="37.6768099,126.7819395" />
+   <SubArea Name="고양시일산서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4128758000" Location="37.6687415,126.6577674" />
+   <SubArea Name="과천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4129053000" Location="37.4284996,126.9861046" />
+   <SubArea Name="광명시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4121063100" Location="37.4571177,126.8337652" />
+   <SubArea Name="광주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4161025300" Location="37.3951459,127.1731823" />
+   <SubArea Name="구리시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4131053000" Location="37.6144107,127.0975434" />
+   <SubArea Name="군포시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4141059000" Location="37.3519806,126.8793778" />
+   <SubArea Name="김포시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4157025600" Location="37.6357882,126.4773855" />
+   <SubArea Name="남양주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4136051000" Location="37.6602385,127.1781339" />
+   <SubArea Name="동두천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4125053500" Location="37.9095878,127.043908" />
+   <SubArea Name="부천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4119056000" Location="37.4966756,126.7761614" />
+   <SubArea Name="성삼시분당구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4113555000" Location="37.3697936,127.0927829" />
+   <SubArea Name="성남시수정구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4113164000" Location="37.4278058,127.0086187" />
+   <SubArea Name="성남시중원구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4113357000" Location="37.4421918,127.1423927" />
+   <SubArea Name="수원시권선구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4111355000" Location="37.2463009,126.9064362" />
+   <SubArea Name="수원시영통구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4111755000" Location="37.2886532,126.9911392" />
+   <SubArea Name="수원시장안구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4111156000" Location="37.3224761,126.9535073" />
+   <SubArea Name="수원시팔달구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4111570000" Location="37.2822368,127.0078809" />
+   <SubArea Name="시흥시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4139063000" Location="37.3903348,126.7294321" />
+   <SubArea Name="안산시상록구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4127151000" Location="37.311884,126.851779" />
+   <SubArea Name="안성시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4155031000" Location="37.0588272,127.2403878" />
+   <SubArea Name="안양시동안구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4117356600" Location="37.3958221,126.9496563" />
+   <SubArea Name="안양시만안구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4117162100" Location="37.4067734,126.8773698" />
+   <SubArea Name="양주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4163033000" Location="37.8368438,126.889584" />
+   <SubArea Name="양평군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4183040000" Location="37.5148537,127.516625" />
+   <SubArea Name="여주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4167034000" Location="37.3035657,127.5060368" />
+   <SubArea Name="연천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4180031000" Location="38.0697445,126.9679964" />
+   <SubArea Name="오산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4137053000" Location="37.1509885,127.0109881" />
+   <SubArea Name="용인시기흥구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146352000" Location="37.2772552,127.1048738" />
+   <SubArea Name="용인시수지구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146553000" Location="37.3302409,127.0226885" />
+   <SubArea Name="용인시처인구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4146154000" Location="37.2018838,127.1781866" />
+   <SubArea Name="의왕시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4143053000" Location="37.3616238,126.9534561" />
+   <SubArea Name="의정부시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4115056700" Location="37.7305754,127.0459972" />
+   <SubArea Name="이천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4150036000" Location="37.1760773,127.3864076" />
+   <SubArea Name="파주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4148025300" Location="37.8292254,126.7489376" />
+   <SubArea Name="평택시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4122034000" Location="37.0019118,126.9227361" />
+   <SubArea Name="포천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4165036000" Location="37.9990465,127.1830015" />
+   <SubArea Name="하남시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4145059000" Location="37.5069723,127.1600148" />
+   <SubArea Name="화성시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4159036000" Location="37.1471031,126.8158397" />
+  </MainArea>
+  
+  <MainArea Name="경상남도">
+    <SubArea Name="거제시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4831059000" Location="34.8523851,128.6106381" />
+	<SubArea Name="거창군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4888025000" Location="35.6917944,127.8801488" />
+	<SubArea Name="고성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4882035000" Location="35.0271625,128.2113627" />
+	<SubArea Name="김해시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4825034000" Location="35.3143475,128.7350621" />
+	<SubArea Name="남해군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4884031000" Location="34.7986427,127.8822132" />
+	<SubArea Name="밀양시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4827054000" Location="35.472571,128.7458608" />
+	<SubArea Name="사천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4824036000" Location="35.0689833,127.8983442" />
+	<SubArea Name="산청군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4886025000" Location="35.4098497,127.8344099" />
+	<SubArea Name="양산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4833033000" Location="35.4309594,128.9773676" />
+	<SubArea Name="의령군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4872042000" Location="35.4238092,128.2267076" />
+	<SubArea Name="진주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4817069500" Location="35.2126936,128.0651051" />
+	<SubArea Name="창녕군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4874025000" Location="35.5255227,128.4402104" />
+	<SubArea Name="창원시 마산합포구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4812534000" Location="35.129291,128.3459676" />
+	<SubArea Name="창원시 마산회원구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4812725000" Location="35.2277079,128.454538" />
+	<SubArea Name="창원시 성산구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4812356000" Location="35.2110042,128.6479089" />
+	<SubArea Name="창원시 의창구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4812131000" Location="35.3324047,128.5686827" />
+	<SubArea Name="창원시 진해구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4812963000" Location="35.0933905,128.6562804" />
+	<SubArea Name="통영시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4822034000" Location="34.856045,128.3837306" />
+	<SubArea Name="하동군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4885040000" Location="35.1949301,127.6805009" />
+	<SubArea Name="함안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4873025000" Location="35.2705641,128.362747" />
+	<SubArea Name="함양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4887040000" Location="35.5485574,127.6568095" />
+	<SubArea Name="합천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4889046000" Location="35.5363068,128.0204221" />
+  </MainArea>
+
+  <MainArea Name="경상북도">
+	<SubArea Name="경산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4729033000" Location="35.8221009,128.7881172" />
+	<SubArea Name="경주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4713060500" Location="35.8084079,129.2143599" />
+	<SubArea Name="고령군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4783035000" Location="35.7135786,128.2916139" />
+	<SubArea Name="구미시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4719025300" Location="36.1833486,128.2532287" />
+	<SubArea Name="군위군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4772034000" Location="36.1684163,128.5890066" />
+	<SubArea Name="김천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4715041000" Location="36.0440546,127.9480624" />
+	<SubArea Name="문경시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4728036000" Location="36.6832677,128.0466287" />
+	<SubArea Name="봉화군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4792034000" Location="37.0027165,128.7141024" />
+	<SubArea Name="상주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4725037000" Location="36.4051962,127.9852692" />
+	<SubArea Name="성주군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4784036000" Location="35.9032715,128.1443809" />
+	<SubArea Name="안동시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4717031000" Location="36.6321408,128.7259963" />
+	<SubArea Name="영덕군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4777034000" Location="36.4587819,129.1120135" />
+	<SubArea Name="영양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4776033000" Location="36.7571835,129.0572172" />
+	<SubArea Name="영주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4721035000" Location="36.8439903,128.4906781" />
+	<SubArea Name="영천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4723035000" Location="36.0838719,128.8329254" />
+	<SubArea Name="예천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4790025000" Location="36.6605848,128.4148785" />
+	<SubArea Name="울릉군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4794031000" Location="37.5028195,130.7420834" />
+	<SubArea Name="울진군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4793033000" Location="36.9442801,129.3007226" />
+	<SubArea Name="의성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4773046000" Location="36.3899741,128.5182938" />
+	<SubArea Name="청도군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4782025300" Location="35.63543,128.6784663" />
+	<SubArea Name="청송군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4775032000" Location="36.2981715,128.9873451" />
+	<SubArea Name="칠곡군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4785025000" Location="35.964908,128.3610307" />
+	<SubArea Name="포항시남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4711125600" Location="35.9221193,129.3216736" />
+	<SubArea Name="포항시북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4711331000" Location="36.1482516,129.1889967" />
+  </MainArea>
+
+  <MainArea Name="전라남도">
+	<SubArea Name="강진군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4681025000" Location="34.6274126,126.6641759" />
+	<SubArea Name="고흥군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4677035000" Location="34.5668721,127.2354148" />
+	<SubArea Name="곡성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4672031000" Location="35.2357785,127.2459933" />
+	<SubArea Name="광양시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4623033000" Location="34.9997086,127.6144802" />
+	<SubArea Name="구례군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4673034000" Location="35.24135,127.4564747" />
+	<SubArea Name="나주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4617060000" Location="34.9906793,126.6891407" />
+	<SubArea Name="담양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4671025000" Location="35.3201047,126.9073317" />
+	<SubArea Name="목포시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4611054500" Location="34.7949392,126.3521195" />
+	<SubArea Name="무안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4684025000" Location="34.9997692,126.3961664" />
+	<SubArea Name="보성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4678033000" Location="34.8328605,127.0938258" />
+	<SubArea Name="순천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4615025000" Location="35.0195005,127.3025826" />
+	<SubArea Name="신안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4691042000" Location="34.850258,125.9806356" />
+	<SubArea Name="여수시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4613079000" Location="34.742536,127.6594583" />
+	<SubArea Name="영광군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4687034000" Location="35.2666636,126.4006852" />
+	<SubArea Name="영암군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4683036000" Location="34.7775235,126.5680817" />
+	<SubArea Name="완도군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4689025000" Location="34.3184976,126.5917882" />
+	<SubArea Name="장성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4688025000" Location="35.3287014,126.7444407" />
+	<SubArea Name="장흥군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4680025000" Location="34.6729392,126.8440198" />
+	<SubArea Name="진도군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4690035000" Location="34.4476375,125.9946618" />
+	<SubArea Name="함평군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4686035000" Location="35.1113514,126.4728458" />
+	<SubArea Name="해남군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4682025000" Location="34.5580695,126.4865578" />
+	<SubArea Name="화순군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4679042000" Location="35.0384464,126.9765785" />
+  </MainArea>
+
+  <MainArea Name="전라북도">
+	<SubArea Name="고창군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4579032000" Location="35.4645656,126.5427526" />
+	<SubArea Name="군산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4513025000" Location="35.902866,126.6548824" />
+	<SubArea Name="김제시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4521054000" Location="35.8065704,126.8913513" />
+	<SubArea Name="남원시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4519042000" Location="35.4327289,127.3826726" />
+	<SubArea Name="무주군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4573033000" Location="35.9393939,127.600516" />
+	<SubArea Name="부안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4580039000" Location="35.6690757,126.5726137" />
+	<SubArea Name="순창군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4577040000" Location="35.4616414,127.0174628" />
+	<SubArea Name="완주군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4571036000" Location="35.9690416,127.1748742" />
+	<SubArea Name="익산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4514043000" Location="36.0182767,126.9658258" />
+	<SubArea Name="임실군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4575031000" Location="35.5594016,127.1648843" />
+	<SubArea Name="장수군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4574025000" Location="35.6164583,127.443029" />
+	<SubArea Name="전주시덕진구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4511364100" Location="35.8655245,127.1143564" />
+	<SubArea Name="전주시완산구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4511170300" Location="35.7686719,127.0491653" />
+	<SubArea Name="정읍시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4518031000" Location="35.5995037,126.8675916" />
+	<SubArea Name="진안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4572038000" Location="35.8474748,127.2897158" />
+  </MainArea>
+
+  <MainArea Name="충청남도">
+    <SubArea Name="계룡시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4425031500" Location="36.2771127,127.1892852" />
+	<SubArea Name="공주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4415038000" Location="36.475777,126.9755481" />
+	<SubArea Name="금산군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4471025000" Location="36.0933994,127.4389997" />
+	<SubArea Name="논산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4423035000" Location="36.2056197,127.0702152" />
+	<SubArea Name="당진시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4427052000" Location="36.8585036,126.5957528" />
+	<SubArea Name="보령시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4418036000" Location="36.2908801,126.5009616" />
+	<SubArea Name="부여군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4476035000" Location="36.2598745,126.7823617" />
+	<SubArea Name="서산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4421053500" Location="36.7795663,126.4514764" />
+	<SubArea Name="서천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4477025300" Location="36.1093576,126.5944195" />
+	<SubArea Name="아산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4420025000" Location="36.8215847,126.9072097" />
+	<SubArea Name="예산시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4481040000" Location="36.6913424,126.7560732" />
+	<SubArea Name="천안시동남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4413125000" Location="36.788892,127.1387623" />
+	<SubArea Name="천안시서북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4413325600" Location="36.8895414,127.0679286" />
+	<SubArea Name="청양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4479032000" Location="36.4477907,126.7956086" />
+	<SubArea Name="태안군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4482533000" Location="36.6850424,125.9982608" />
+	<SubArea Name="홍성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4480039000" Location="36.5738562,126.5839307" />
+  </MainArea>
+
+  <MainArea Name="충청북도">
+    <SubArea Name="괴산군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4376035000" Location="36.7731211,127.7041801" />
+	<SubArea Name="단양군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4380025000" Location="36.964816,128.3265337" />
+	<SubArea Name="보은군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4372025000" Location="36.4908089,127.6480941" />
+	<SubArea Name="영동군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4374025000" Location="36.1676263,127.7376851" />
+	<SubArea Name="옥천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4373031000" Location="36.3058927,127.5828002" />
+	<SubArea Name="음성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4377025300" Location="36.9951893,127.5083643" />
+	<SubArea Name="제천시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4315031000" Location="37.0682518,128.1048138" />
+	<SubArea Name="증평군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4374525000" Location="36.7668441,127.5326136" />
+	<SubArea Name="진천군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4375025000" Location="36.8476066,127.3477423" />
+	<SubArea Name="청주시상당구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4311152500" Location="36.6435408,127.4772346" />
+	<SubArea Name="청주시서원구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4311231000" Location="36.6225084,127.4602505" />
+	<SubArea Name="청주시청원구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4311425000" Location="36.6224111,127.3551871" />
+	<SubArea Name="청주시흥덕구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4311332000" Location="36.6807887,127.2899574" />
+	<SubArea Name="충주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4313039000" Location="37.030031,127.8598131" />
+  </MainArea>
+
+  <MainArea Name="서울특별시">
+    <SubArea Name="강남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1168059000" Location="37.517351,127.0452494" />
+    <SubArea Name="강동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1174064000" Location="37.5299586,127.1212677" />
+    <SubArea Name="강북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1130563000" Location="37.6482079,126.9813874" />
+    <SubArea Name="강서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1150059100" Location="37.5509103,126.8473855" />
+    <SubArea Name="관악구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1162059500" Location="37.478758,126.9486203" />
+    <SubArea Name="광진구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1121582000" Location="37.5379568,127.0799104" />    
+    <SubArea Name="구로구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1153074000" Location="37.496397,126.8535883" />
+    <SubArea Name="금천구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1154567000" Location="37.456908,126.8932083" />
+    <SubArea Name="노원구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1135061900" Location="37.6551075,127.0730189" />
+    <SubArea Name="도봉구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1132070000" Location="37.667887,127.0307523" />    
+    <SubArea Name="동대문구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1123056000" Location="37.583861,127.055831" />
+    <SubArea Name="동작구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1159053000" Location="37.503484,126.9472943" />
+    <SubArea Name="마포구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1144069000" Location="37.558956,126.908245" />
+    <SubArea Name="서대문구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1141061500" Location="37.577232,126.937772" />
+    <SubArea Name="서초구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1165051000" Location="37.478923,127.023065" />
+    <SubArea Name="성동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1120065000" Location="37.5515556,127.039728" />
+    <SubArea Name="성북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1129062000" Location="37.6002683,127.0176687" />
+    <SubArea Name="송파구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1171058000" Location="37.5054573,127.0772694" />
+    <SubArea Name="양천구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1147065000" Location="37.52243,126.8562953" />
+    <SubArea Name="영등포구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1156053500" Location="37.52396,126.9087333" />
+    <SubArea Name="용산구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1117065000" Location="37.5348493,126.9762461" />
+    <SubArea Name="은평구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1138057000" Location="37.6170944,126.8952503" />
+    <SubArea Name="종로구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1111055000" Location="37.6044309,126.9410921" />
+    <SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1114057000" Location="37.5613862,126.9943297" />
+    <SubArea Name="중랑구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1126058000" Location="37.5950445,127.0606868" />
+  </MainArea>
+  
+  <MainArea Name="광주광역시">
+    <SubArea Name="광산구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2920052500" Location="35.1676384,126.7465433" />
+    <SubArea Name="남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2915569000" Location="35.0932214,126.8551533" />
+    <SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2911065500" Location="35.1169774,126.9490453" />
+    <SubArea Name="북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2917059000" Location="35.2014154,126.9238173" />
+    <SubArea Name="서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2914065000" Location="35.1392944,126.8487123" />
+  </MainArea>
+  
+  <MainArea Name="대구광역시">
+    <SubArea Name="남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2720056000" Location="35.8429179,128.5661848" />
+	<SubArea Name="달서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2729060200" Location="35.8259345,128.4727242" />
+	<SubArea Name="달성군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2771034000" Location="35.7660323,128.3348644" />
+	<SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2714061500" Location="35.9277163,128.6215729" />
+	<SubArea Name="북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2723074500" Location="35.9320433,128.5311351" />
+	<SubArea Name="서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2717066100" Location="35.8784845,128.5399807" />
+	<SubArea Name="수성구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2726060100" Location="35.8410364,128.6201142" />
+	<SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2711057500" Location="35.8709162,128.5799472" />
+  </MainArea>
+  
+  <MainArea Name="대전광역시">
+    <SubArea Name="대덕구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3023052500" Location="36.396907,127.3984358" />
+	<SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3011055100" Location="36.3166059,127.4299828" />
+	<SubArea Name="서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3017060000" Location="36.2338933,127.2528558" />
+	<SubArea Name="유성구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3020054700" Location="36.3980136,127.268376" />
+	<SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3014074000" Location="36.2621645,127.3362554" />
+  </MainArea>
+  
+  <MainArea Name="부산광역시">
+    <SubArea Name="강서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2644053000" Location="35.0979527,128.7923282" />
+	<SubArea Name="금정구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2641069000" Location="35.2516115,129.0841328" />
+	<SubArea Name="기장군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2671031000" Location="35.2721921,129.1687179" />
+	<SubArea Name="남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2629054000" Location="35.1316576,129.0905149" />
+	<SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2617056000" Location="35.1240605,129.0400601" />
+	<SubArea Name="동래구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2626056000" Location="35.2064677,129.0615322" />
+	<SubArea Name="부산진구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2623067000" Location="35.1639018,129.0335937" />
+	<SubArea Name="북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2632054100" Location="35.2250136,129.0080751" />
+	<SubArea Name="사상구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2653062000" Location="35.1671348,128.9563647" />
+	<SubArea Name="사하구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2638059000" Location="35.0755525,128.9581939" />
+	<SubArea Name="서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2614061500" Location="35.100296,129.0045659" />
+	<SubArea Name="수영구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2650076000" Location="35.1519332,129.1021436" />
+	<SubArea Name="연제구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2647069000" Location="35.1866146,129.0502468" />
+	<SubArea Name="영도구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2620065000" Location="35.0762607,129.0595229" />
+	<SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2611053000" Location="35.1050512,129.0265805" />
+	<SubArea Name="해운대구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2635058000" Location="35.1825756,129.1116818" />
+  </MainArea>
+  
+  <MainArea Name="세종특별자치시">
+    <SubArea Name="" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3611036000" Location="36.5821453,127.1927924" />
+  </MainArea>
+  
+  <MainArea Name="울산광역시">
+    <SubArea Name="남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3114064000" Location="35.4896482,129.2826267" />
+	<SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3117059000" Location="35.5297298,129.3894692" />
+	<SubArea Name="북구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3120057000" Location="35.6040475,129.3351502" />
+	<SubArea Name="울주군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3171025300" Location="35.5846955,129.0148549" />
+	<SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=3111065000" Location="35.5801043,129.2745333" />
+  </MainArea>
+  
+  <MainArea Name="인천광역시">
+    <SubArea Name="강화군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2871036000" Location="37.7197959,126.3190267" />
+	<SubArea Name="계양구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2824571000" Location="37.5662549,126.6670522" />
+	<SubArea Name="남구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2817063000" Location="37.4618658,126.6502378" />
+	<SubArea Name="남동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2820066000" Location="37.4280668,126.6834498" />
+	<SubArea Name="동구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2814055500" Location="37.4780586,126.6303386" />
+	<SubArea Name="부평구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2823751000" Location="37.4981988,126.7138073" />
+	<SubArea Name="서구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2826051500" Location="37.5646126,126.5909066" />
+	<SubArea Name="연수구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2818578000" Location="37.4049052,126.6211792" />
+	<SubArea Name="옹진군" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2872037000" Location="37.202709,126.143042" />
+	<SubArea Name="중구" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2811062800" Location="37.4555355,126.313108" />
+  </MainArea>
+  
+  <MainArea Name="제주특별자치도">
+    <SubArea Name="서귀포시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=5013056000" Location="33.3039048,126.5017213" />
+	<SubArea Name="이어도" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=5019099000" Location="33.9678676,124.3827134" />
+	<SubArea Name="제주시" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=5011064000" Location="33.4391382,126.4901189" />
+  </MainArea>
+  
+    <MainArea Name="산날씨">
+    <SubArea Name="가야산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4889033000" Location="35.8057847,128.0121516" />
+	<SubArea Name="계룡산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4425033000" Location="36.3425043,127.2036446" />
+	<SubArea Name="남한산성" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4161037000" Location="37.4802179,127.1816771" />
+	<SubArea Name="내장산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4577037000" Location="35.4708765,126.8779245" />
+	<SubArea Name="대둔산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4571038000" Location="36.120054,127.3211206" />
+	<SubArea Name="덕유산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4573032000" Location="35.8605603,127.7442003" />
+	<SubArea Name="도봉산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=1132052100" Location="37.7004677,127.0134956" />
+	<SubArea Name="마니산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2871034000" Location="37.6116072,126.4326383" />
+	<SubArea Name="마이산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4572025000" Location="35.7621817,127.4026223" />
+	<SubArea Name="무등산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2911062000" Location="35.1341384,126.9865668" />
+	<SubArea Name="문경새재" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4728025000" Location="36.7743516,128.0390877" />
+	<SubArea Name="백운산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4623032000" Location="35.1072264,127.6197553" />
+	<SubArea Name="북한산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4128156000" Location="37.6098181,126.9147118" />
+	<SubArea Name="비슬산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=2771037000" Location="35.7155599,128.5211446" />
+	<SubArea Name="설악산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4281032000" Location="38.1195546,128.4633694" />
+	<SubArea Name="소백산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4380032000" Location="36.9517242,128.4439343" />
+	<SubArea Name="소요산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4125058000" Location="37.9342811,127.0793574" />
+	<SubArea Name="속리산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4372031500" Location="36.5333373,127.8978113" />
+	<SubArea Name="수리산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4141060000" Location="37.3576422,126.8833717" />
+	<SubArea Name="연인산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4182025000" Location="37.8987008,127.4164227" />
+	<SubArea Name="오대산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4276036000" Location="37.7522895,128.6266747" />
+	<SubArea Name="용문산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4183040000" Location="37.5501546,127.5688926" />
+	<SubArea Name="월악산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4315034000" Location="36.8341329,128.0853574" />
+	<SubArea Name="월출산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4683025000" Location="34.7743432,126.7082686" />
+	<SubArea Name="주왕산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4775031000" Location="36.3882224,129.1644099" />
+	<SubArea Name="지리산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4886036000" Location="35.1857199,126.7696654" />
+	<SubArea Name="청계산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4143056000" Location="37.4085213,127.0187602" />
+	<SubArea Name="청량산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4792037000" Location="36.7965017,128.9062002" />
+	<SubArea Name="치악산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4213031000" Location="37.3716935,128.0483212" />
+	<SubArea Name="칠갑산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4479032000" Location="36.4133721,126.8820993" />
+	<SubArea Name="태백산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4219058500" Location="37.0957392,128.9130517" />
+	<SubArea Name="토함산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4713066000" Location="35.7566713,129.3714223" />
+	<SubArea Name="팔공산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4772033000" Location="36.0169483,128.6928113" />
+	<SubArea Name="팔봉산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4272037000" Location="37.7027822,127.7517003" />
+	<SubArea Name="한라산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=5011064000" Location="33.3616711,126.5269779" />
+	<SubArea Name="황매산" WeatherAdd="http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4886031000" Location="35.4958376,127.9722557" />
+  </MainArea>
+  
+</Weather>
