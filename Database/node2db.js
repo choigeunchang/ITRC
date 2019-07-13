@@ -6,8 +6,8 @@ function createDatabase() {
 // connect the Mysql
 var con = mysql.createConnection({
     host: "localhost",
-    user: "ving",
-    password: "1111"
+    user: "your id",
+    password: "your password"
 });
 con.connect(function(err) {
     if (err !== null) {
@@ -37,9 +37,9 @@ con.query(sql, function(err) {
 var sqlConnection = function (sql, next) {
     var connection = mysql.createConnection({
         host: 'localhost',
-        user: 'ving',
-        password: '1111',
-        database: 'monitoring'
+        user: 'your id',
+        password: 'your password',
+        database: 'your db'
     }); 
     connection.connect(function(err) {
         if (err !== null) {
@@ -59,9 +59,9 @@ var sqlConnection = function (sql, next) {
 var sqlOpenConn = function () {
     var connection = mysql.createConnection({
         host: 'localhost',
-        user: 'ving',
-        password: '1111',
-        database: 'monitoring'
+        user: 'your id',
+        password: 'your password',
+        database: 'your db
     }); 
     connection.connect(function(err) {
         if (err !== null) {
