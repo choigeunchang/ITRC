@@ -1,6 +1,6 @@
 var map;
 var markers = [], circles = [], bubble = [];
-var socket = io.connect("https://0.0.0.0:8080");
+var socket = io.connect("https://your ip:port");
 var userID = "c"ving
 
 var res_temp, res_humi, res_windv, res_weather, res_water;
@@ -108,7 +108,7 @@ function Connect_btn() {
     // Declare the value that element id="ip" in HTML
     var message = $('#ip').val();
 
-    if(message == "0.0.0.0") {
+    if(message == "your ip") {
         sendCommand(commands.dbProvinceList, {
             command: commands.dbProvinceList,
             data: ''
