@@ -35,8 +35,8 @@
   db_handle.perform();
   Browser();
 
-  // Port: 7532 open the server
+  // Port: 8080 open the server
   server.listen(7532, function() {
-      console.log(TAG, 'The server is listening on port 7532');
+      console.log(TAG, 'The server is listening on port 8080');
       soc_handle.init(io);
   });
